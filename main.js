@@ -28,3 +28,35 @@ function getNumberOfCharsInTable(tableId) {
 const tableId = 'your_table_id';
 const numberOfChars = getNumberOfCharsInTable(tableId);
 console.log(numberOfChars); // Output: Total number of characters in the table
+
+
+
+const_check = true
+ if (!check)
+{
+    console.log("hello")
+}
+
+
+
+if(condition){
+    //action
+}
+
+
+const numbers=
+[2,3,4]
+
+
+numbers.
+
+
+array_.include(2)
+
+
+array_.join("-")
+
+
+
+
+array.lostring()
